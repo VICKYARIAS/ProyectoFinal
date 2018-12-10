@@ -1,0 +1,4 @@
+#ARIAS RAMIREZ VICTORIA ANGÉLICA
+El Promedio de mujeres en el banco es: 0.38461538461538464
+
+El Promedio de hombres en el banco es: 0.6153846153846154
